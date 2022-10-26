@@ -1,13 +1,13 @@
 {
-    "token": "YOUR BOT TOKEN",
-    "prefix": "//",
+    "token": "MTAyMzEzMjU1MDU3MjU1MjI4Mw.GaDzZR.EZ_ARTDOku7qV1e5stkCM0AZp-I2sRvSMlT1e8",
+    "prefix": "-",
     "ownerIDS": [
-       "552060563602276362"
+       "919144027230699578"
     ],
-    "memer_api": "",
+    "memer_api": "mXlMNYMdFEp",
     "status": {
        "text": "{prefix} help | Loaded with {commands} commands.",
-       "text2": "dsc.gg/cyberdev",
+       "text2": "D&H gaming",
        "type": "PLAYING",
        "url": "https://twitch.tv/#"
     },
@@ -23,8 +23,8 @@
        ]
     },
     "spotify": {
-       "clientSecret": "",
-       "clientID": ""
+       "clientSecret": "053469ffeb3844079fab734ebf3090c2",
+       "clientID": "bf5ee2a72bae40ffadc71a47280e5ff9"
     },
     "settings": {
        "leaveOnEmpty_Channel": {
