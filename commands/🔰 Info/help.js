@@ -90,8 +90,6 @@ module.exports = {
             return message.reply({ embeds: [embeds[15]] })
           if (cat == "😳 Anime-Emotions")
             return message.reply({ embeds: [embeds[16]] })
-          if (cat == "🔞 NSFW")
-            return message.reply({ embeds: [embeds[17]] })
           if (category.toLowerCase().includes("custom")) {
             const cmd = client.commands.get(items[0].split("`").join("").toLowerCase()) || client.commands.get(client.aliases.get(items[0].split("`").join("").toLowerCase()));
             try {
@@ -228,12 +226,6 @@ module.exports = {
             value: "Anime-Emotions",
             emoji: "😳",
             description: "Commands to show your Emotions with Anime style"
-          },
-          {
-            label: "Nsfw",
-            value: "Nsfw",
-            emoji: "🔞",
-            description: "Commands for Nsfw (underage) Content."
           },
           {
             label: "Customcommand",
