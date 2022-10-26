@@ -276,8 +276,8 @@ but you can also do \`${prefix}setup-SYSTEM\` e.g. \`${prefix}setup-welcome\``)
 :file_folder: on **${client.guilds.cache.size} Guilds**
 ⌚️ **${duration(client.uptime).map(i => `\`${i}\``).join("︲")} Uptime**
 📶 **\`${Math.floor(client.ws.ping)}ms\` Ping**
-<:Cybernetics:960770246577373204>  Made by [**Cybernetics Development**](https://discord.cyberneticsdev.tk)`)
-          .addField("How to get help?", `>>> **\` 1. Way \`** *Use the Buttons, to swap the Pages*\n**\` 2. Way \`** *Use the Menu to select all Help Pages, you want to display*\n**\` 3. Way \`** *Watch the Youtube Youtube*`)
+:crown: Made by [**DARSH OP#892**](https://discord.com/users/919144027230699578)`)
+          .addField("How to get help?", `>>> **\` 1. Way \`** *Use the Buttons, to swap the Pages*\n**\` 2. Way \`** *Use the Menu to select all Help Pages, you want to display*\n**\` 3. Way \`** *Help from my [OWNER](https://discord.com/users/919144027230699578)*`)
 
         let err = false;
         //Send message with buttons
